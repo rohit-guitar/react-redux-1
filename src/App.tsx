@@ -134,7 +134,7 @@ function App() {
                           marginBlockStart: '20px',
                           marginBlockEnd: '20px',
                           maxHeight: '700px',
-                          maxWidth: '1000px'
+                          maxWidth: '1310px'
                         }}>
                       <Paper>
                         <LineChart 
